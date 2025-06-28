@@ -17,7 +17,7 @@ const About = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div>
             <img 
-              src="/src/assets/image.png" 
+              src="/image.png" 
               alt="Dr. Serena Blake" 
               className="rounded-2xl shadow-lg w-full"
             />

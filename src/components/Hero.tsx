@@ -41,7 +41,7 @@ const Hero = () => {
           <div className="lg:w-1/2">
             <div className="relative">
               <img 
-                src="/src/assets/image.png" 
+                src="/image.png" 
                 alt="Dr. Serena Blake" 
                 className="rounded-2xl shadow-2xl"
               />
